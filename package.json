@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Ondoher/symphony-api#readme",
   "dependencies": {
     "jsonwebtoken": "^8.2.1",
-    "node-forge": "^0.7.5",
+    "node-forge": "^0.10.0",
     "q": "^1.4.1",
     "request": "^2.80.0",
     "url-join": "^1.1.0"
